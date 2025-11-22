@@ -7,4 +7,4 @@
 
 Ищу возможности на позициях **Junior Data Scientist**, особенно в retail, e-commerce и FMCG.
 
-Технологии: `Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Scikit-Optimize` · `LightGBM` · `CatBoost` · `Matplotlib` · `Seaborn` · `SciPy` · `Statsmodels` · `Phik` · `SHAP`
+Технологии: `Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `Scikit-Optimize` · `LightGBM` · `CatBoost` · `Matplotlib` · `Seaborn` · `SciPy` · `Statsmodels` · `Phik` · `SHAP`
