@@ -1,7 +1,14 @@
 ## 👋 Всем привет! 
 
-Осваиваю анализ данных и машинное обучение.
+Я Кирилл — Data Scientist с опытом в ритейле (11 лет в X5 и INDITEX)
 
-Ищу возможности на позициях **Junior Data Scientist**.
+Создаю end-to-end ML-прототипы: от данных до API.
+
+🔍 Интересуюсь:
+- Прикладным машинным обучением в бизнес-контексте  
+- Надёжной и интерпретируемой аналитикой  
+- PyTorch, NLP и Computer Vision
+
+Ищу возможности на позиции **Data Scientist** — готов брать тестовые задания и участвовать в собеседованиях.
 
 Технологии: `Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `Scikit-Optimize` · `LightGBM` · `CatBoost` · `Matplotlib` · `Seaborn` · `SciPy` · `Statsmodels` · `Phik` · `SHAP`
